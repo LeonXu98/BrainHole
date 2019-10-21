@@ -1,0 +1,2 @@
+＃ this item can work normally in Minecraft Java Edition 1.13+
+minecraft:creeper_spawn_egg{EntityTag:{id:"minecraft:creeper",powered:1b,Fuse:0s,Invulnerable:1b,NoAI:1b},display:{Name:"{\"text\":\"炸蛋\",\"color\":\"light_purple\",\"italic\":\"false\"}"}}
